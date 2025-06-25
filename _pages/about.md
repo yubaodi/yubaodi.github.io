@@ -23,8 +23,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 I have officially started using and updating my academic homepage. 
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted to Machine Learning: Engineering.
+
+# 📖 Educations
+- *2020.09 - 2026.06 (now)*, Integrated Master-PhD Program, University of Chinese Academy of Sciences (UCAS), Beijing. (GPA: **3.76**/4)
+- *2016.09 - 2020.06*, Undergraduate, Beijing University of Chemical Technology (BUCT), Beijing. (GPA: **3.81**/4.33, rank: **6**/206)
 
 # 📝 Publications 
 
@@ -42,17 +46,27 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 🆚 Competitions
+- *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
+- *2024.01* Provincial Third Prize, Beijing Science Communication Competition
+- *2021.12* National First Prize (1st), “University of Chinese Academy of Sciences Cup” Innovation and Entrepreneurship Competition, Software and Internet Category
+- *2019.08* National Third Prize, National College Student Design Competition
+- *2019.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
+- *2018.10* Provincial Second Prize, National Mathematical Modeling Contest.
+- *2018.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
+- *2017.10* Provincial Second Prize, National Mathematical Modeling Contest.
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.7* National Outstanding Communist Party Member
+- *2022.7* Excellent Communist Party cadre in University of Chinese Academy of Sciences
+- *2021.7* Outstanding Communist Party Member in University of Chinese Academy of Sciences
+- *2021.6* Excellent Student Cadre in University of Chinese Academy of Sciences
+- *2020.9* Recommended Scholarship for Graduate Admissions without Entrance Examination in University of Chinese Academy of Sciences
+- *2019.04* First Prize Scholarship in Beijing University of Chemical Technology
+- *2018.12* Excellent Student Cadre in Beijing University of Chemical Technology
+- *2018.10* Shantou Zhejiang Runtu Co., Ltd. Scholarship
+- *2017.12* Merit Student in Beijing University of Chemical Technology
+- *2017.10* HuaLu Engineering & Technology Co., ltd. Scholarship
+- *2017.04* Second Prize Scholarship in Beijing University of Chemical Technology
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs&cl=ffffff&w=a"></script>
