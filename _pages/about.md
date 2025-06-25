@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am currently pursuing a PhD at the National Key Laboratory of Interdisciplinary Science and Engineering, Institute of Process Engineering, University of Chinese Academy of Sciences, under the supervision of Associate Researcher Meng Fanyong.
+1
+I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and Engineering](https://www.mesolab.ac.cn), [Institute of Process Engineering](http://english.ipe.cas.cn), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn), under the supervision of Associate Researcher [Meng Fanyong](https://people.ucas.edu.cn/~0037928).
 
 My research focuses on interdisciplinary studies in multiphase flow measurement, fluid mechanics, computer vision, and artificial intelligence. Specifically, I am working on the detection, characterization, and generation of highly overlapping scenarios in multiphase flows.
 
@@ -31,19 +31,17 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Machine Learning: Engineering</div><img src='images/Exploring model generalizability from a novel perspective.png' alt="sym" width="100%"></div></div>11
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Exploring model generalizability from a novel perspective](https://iopscience.iop.org/article/10.1088/3049-4761/addac6/pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Sunyang Wang, **Baodi Yu**, Fanyong Meng*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🤝 Competitions
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
@@ -68,4 +66,4 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 - *2017.10* HuaLu Engineering & Technology Co., ltd. Scholarship
 - *2017.04* Second Prize Scholarship in Beijing University of Chemical Technology
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=3bb6d1&w=a&t=tt&d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs&co=ffffff&ct=cf0bbb'></script>
