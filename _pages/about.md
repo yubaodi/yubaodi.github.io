@@ -60,7 +60,7 @@ Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong 
 </div>
 
 ## 📚 Patents
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
+<div class="badge">Invention Patent
 
 [Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
 
