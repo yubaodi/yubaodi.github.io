@@ -29,8 +29,10 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 - *2016.09 - 2020.06*, Undergraduate, Beijing University of Chemical Technology (BUCT), Beijing. (GPA: **3.81**/4.33, rank: **6**/206)
 
 # 📝 Publications 
+* Equal Contributions; # Corresponding Authors; cs: coming soon.
+## 📄 Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mach. Learn.: Eng.</div><img src='images/Exploring model generalizability from a novel perspective.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mach. Learn.: Eng. 2025</div><img src='images/Exploring model generalizability from a novel perspective.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring model generalizability from a novel perspective](https://iopscience.iop.org/article/10.1088/3049-4761/addac6/pdf)
@@ -38,14 +40,38 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 Sunyang Wang, **Baodi Yu**, Fanyong Meng*
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Challenge**: To address the dual challenges in dynamic CT for multiphase flows: severe limited-angle artifacts due to incomplete data acquisition and prohibitively long reconstruction times of traditional iterative algorithms.
+- **Method**: Developed a deep-learning-enhanced reconstruction algorithm that integrates a rapid SIRT method with a U-Net model, efficiently removing artifacts and restoring structures in the image domain.
+- **Impact**: Reduced reconstruction time by nearly two orders of magnitude (e.g., from 4.8 hours to 3 minutes) while ensuring high-quality results, providing a key technology for high-spatiotemporal-resolution analysis of dynamic flow fields
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CT Theory and Applications 2025</div><img src='images/A Deep Learning Enhanced CT Reconstruction Algorithm for Multiphase Flow Measurement.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep-learning Enhanced CT Reconstruction Algorithm for Multiphase-flow Measurement](https://www.cttacn.org.cn/cn/article/doi/10.15953/j.ctta.2025.097)
+
+Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong Meng*
+
+- **Objective**: To address the key challenge of lacking a unified mechanistic explanation for the generalizability of Machine Learning (ML) models by establishing a novel theoretical framework with causal explanatory power.
+- **Methodology**: Introduced the "Compromise in Competition" (CIC) principle from mesoscience, identifying the interplay between "memorizing" and "forgetting" as the core competing mechanisms that govern a model's final behavior.
+- **Contribution**: This framework provides a new causal interpretation for overfitting (as the result of memorizing excessively dominating forgetting) and reinterprets the mechanisms of techniques like regularization, offering a new perspective on AI interpretability.
+</div>
+</div>
+
+## 📚 Patents
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
+<div class='paper-box-text' markdown="1">
+[Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
+<div class='paper-box-text' markdown="1">
+[Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
 
 # 🤝 Competitions
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
 - *2024.01* Provincial Third Prize, Beijing Science Communication Competition
-- *2021.12* National First Prize (1st), “University of Chinese Academy of Sciences Cup” Innovation and Entrepreneurship Competition, Software and Internet Category
+- *2021.12* National First Prize (1st), "University of Chinese Academy of Sciences Cup" Innovation and Entrepreneurship Competition, Software and Internet Category
 - *2019.08* National Third Prize, National College Student Design Competition
 - *2019.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
 - *2018.10* Provincial Second Prize, National Mathematical Modeling Contest.
@@ -65,4 +91,4 @@ Sunyang Wang, **Baodi Yu**, Fanyong Meng*
 - *2017.10* HuaLu Engineering & Technology Co., ltd. Scholarship
 - *2017.04* Second Prize Scholarship in Beijing University of Chemical Technology
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00369f&w=150&t=tt&d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs&co=ffffff&ct=00369f&cmo=f700d0&cmn=f5a303'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1537a2&w=300&t=n&d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs&co=ffffff&ct=1537a2&cmo=e21e73'></script>
