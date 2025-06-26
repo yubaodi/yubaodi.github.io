@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Baodi Yu"
-description              : "I am Baodi Yu, a doctoral student at the University of the Chinese Academy of Sciences."
+description              : "A PhD student in the University of the Chinese Academy of Sciences."
 repository               : "AI4CT/AI4CT.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Baodi Yu（于宝地）"
   avatar           : "images/avatar_hongkong.png"
-  bio              : "PhD Student at the University of the Chinese Academy of Sciences"
+  bio              : "University of the Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

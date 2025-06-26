@@ -60,20 +60,36 @@ Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong 
 </div>
 
 ## 📚 Patents
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div><img src='images/一种气液两相流模拟用准动态模体.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
+[Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE)
+
+Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
+
+- **Objective**: To solve the core difficulty in evaluating the performance of dynamic CT scanners for multiphase flow: the inability to obtain the 3D ground truth of a real, transient flow field for accurate performance calibration.
+- **Methodology**: Invented a "quasi-dynamic phantom" featuring a solid "flow-field pillar" with fixed internal bubble structures. This pillar is moved at controlled speeds to simulate a repeatable and predictable dynamic flow field.
+- **Contribution**: This method allows for the acquisition of both dynamic CT data and its corresponding, precisely assembled static ground-truth data. By comparing the two (e.g., via SSIM), the scanner's accuracy at various speeds can be quantitatively evaluated to determine its "maximum trustworthy test speed".
+</div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div><img src='images/流场测量数据压缩与存储方法及系统.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
+[Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA)
+
+**Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
+
+- **Objective**: To address the massive data volume from high-resolution flow-field measurements (e.g., high-speed cameras) which creates immense storage and transmission pressure, and the inability of traditional pixel-based compression to preserve key physical structures.
+
+- **Methodology**: Proposed a novel structure-based compression method that uses a deep neural network to automatically detect key structures (e.g., bubbles) in the flow field  and extracts their geometric and physical information into low-dimensional parameters for efficient binary storage.
+- **Contribution**: This method achieves an extremely high compression ratio (approx. 290:1 in the example) , significantly saving storage space while preserving physically meaningful structural information and enabling subsequent flow-field reconstruction.
 </div>
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
-<div class='paper-box-text' markdown="1">
-[Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
+</div>
+
+- [Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
+- [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
 
 # 🤝 Competitions
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
@@ -97,6 +113,10 @@ Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong 
 - *2017.12* Merit Student in Beijing University of Chemical Technology
 - *2017.10* HuaLu Engineering & Technology Co., ltd. Scholarship
 - *2017.04* Second Prize Scholarship in Beijing University of Chemical Technology
+
+# 💼 Societies
+- *2016.09 - 2020.06* Second Prize Scholarship in Beijing University of Chemical Technology
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1537a2&w=300&t=n&d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs&co=ffffff&ct=1537a2&cmo=e21e73'></script>
 
