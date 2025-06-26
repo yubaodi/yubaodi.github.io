@@ -128,7 +128,11 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 - *2017.04* Second Prize Scholarship in Beijing University of Chemical Technology
 
 # 💼 Societies
-- *2016.09 - 2020.06* Second Prize Scholarship in Beijing University of Chemical Technology
+- *2023.09 - 2026.06* Class Leader in University of Chinese Academy of Sciences
+- *2020.12 - 2024.12* Member of General Party Branch Committee in University of Chinese Academy of Sciences
+- *2020.09 - 2024.11* Secretary of Party Branch Committee in University of Chinese Academy of Sciences
+- *2018.07 - 2020.06* Secretary of Party Branch Committee in Beijing University of Chemical Technology
+- *2016.09 - 2020.06* Class Study Monitor in Beijing University of Chemical Technology
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1537a2&w=300&t=n&d=zskS-AMir7oZgEoMcIu0848Lt4qyqc-dQ9qsHYEAQDs&co=ffffff&ct=1537a2&cmo=e21e73'></script>
