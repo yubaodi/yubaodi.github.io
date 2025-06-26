@@ -29,7 +29,7 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 - *2016.09 - 2020.06*, Undergraduate, Beijing University of Chemical Technology (BUCT), Beijing. (GPA: **3.81**/4.33, rank: **6**/206)
 
 # 📝 Publications 
-* Equal Contributions; # Corresponding Authors; cs: coming soon.
+\* Equal Contributions; # Corresponding Authors; cs: coming soon.
 ## 📄 Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mach. Learn.: Eng. 2025</div><img src='images/Exploring model generalizability from a novel perspective.png' alt="sym" width="100%"></div></div>
@@ -61,12 +61,17 @@ Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong 
 
 ## 📚 Patents
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
-<div class='paper-box-text' markdown="1">
+
 [Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
+<div class='paper-box'><div><div class="badge">Invention Patent</div>
 <div class='paper-box-text' markdown="1">
+
 [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Invention Patent</div>
+<div class='paper-box-text' markdown="1">
+[Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
 
 # 🤝 Competitions
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
