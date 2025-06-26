@@ -39,7 +39,7 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 
 **Baodi Yu**, Qian Chen Yanwei Qin, Sunyang Wang, Xiaohui Su, Fanyong Meng*
 
-[**Code**](https://github.com/AI4CT/3DBubbles)·[**Kaggle**](https://www.kaggle.com/datasets/ai4ctofipe/3dbubbles)·[**Zenodo**](https://doi.org/10.5281/zenodo.15636832)
+[📄**Code**](https://github.com/AI4CT/3DBubbles)&nbsp;·&nbsp;[💿**Kaggle**](https://www.kaggle.com/datasets/ai4ctofipe/3dbubbles)&nbsp;·&nbsp;[💿💿**Zenodo**](https://doi.org/10.5281/zenodo.15636832)
 - **Objective**: Addressed a critical bottleneck in fluid dynamics research: the lack of high-quality, large-scale experimental datasets of 3D bubble structures for training and benchmarking Artificial Intelligence (AI) models.
 - **Methodology**: Developed a novel method for dataset construction by preparing static bubbly flow phantoms, digitizing over 10,000 real 3D bubble structures using an in-house X-ray CT system, and characterizing them with Spherical Harmonic (SH) analysis for efficient compression.
 - **Contribution**: Constructed and open-sourced the "3DBubbles" dataset, providing the scientific community with physically plausible 3D ground-truth bubble geometries and their rendered 2D projections, which serve as valuable benchmark data for robust training and rigorous evaluation of AI models, particularly for 2D-to-3D reconstruction tasks.
