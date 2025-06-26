@@ -53,9 +53,9 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 
 Sunyang Wang, **Baodi Yu**, Fanyong Meng*
 
-- **Objective**: To address the dual challenges in dynamic CT for multiphase flows: severe limited-angle artifacts due to incomplete data acquisition and prohibitively long reconstruction times of traditional iterative algorithms.
-- **Methodology**: Developed a deep-learning-enhanced reconstruction algorithm that integrates a rapid SIRT method with a U-Net model, efficiently removing artifacts and restoring structures in the image domain.
-- **Contribution**: Reduced reconstruction time by nearly two orders of magnitude (e.g., from 4.8 hours to 3 minutes) while ensuring high-quality results, providing a key technology for high-spatiotemporal-resolution analysis of dynamic flow fields
+- **Objective**: To address the key challenge of lacking a unified mechanistic explanation for the generalizability of Machine Learning (ML) models by establishing a novel theoretical framework with causal explanatory power.
+- **Methodology**: Introduced the "Compromise in Competition" (CIC) principle from mesoscience, identifying the interplay between "memorizing" and "forgetting" as the core competing mechanisms that govern a model's final behavior.
+- **Contribution**: This framework provides a new causal interpretation for overfitting (as the result of memorizing excessively dominating forgetting) and reinterprets the mechanisms of techniques like regularization, offering a new perspective on AI interpretability.
 </div>
 </div>
 
@@ -66,9 +66,9 @@ Sunyang Wang, **Baodi Yu**, Fanyong Meng*
 
 Qian Chen, **Baodi Yu**, Yanwei Qin, Sunyang Wang, Xiaohui Su, Xin Jin, Fanyong Meng*
 
-- **Objective**: To address the key challenge of lacking a unified mechanistic explanation for the generalizability of Machine Learning (ML) models by establishing a novel theoretical framework with causal explanatory power.
-- **Methodology**: Introduced the "Compromise in Competition" (CIC) principle from mesoscience, identifying the interplay between "memorizing" and "forgetting" as the core competing mechanisms that govern a model's final behavior.
-- **Contribution**: This framework provides a new causal interpretation for overfitting (as the result of memorizing excessively dominating forgetting) and reinterprets the mechanisms of techniques like regularization, offering a new perspective on AI interpretability.
+- **Objective**: To address the dual challenges in dynamic CT for multiphase flows: severe limited-angle artifacts due to incomplete data acquisition and prohibitively long reconstruction times of traditional iterative algorithms.
+- **Methodology**: Developed a deep-learning-enhanced reconstruction algorithm that integrates a rapid SIRT method with a U-Net model, efficiently removing artifacts and restoring structures in the image domain.
+- **Contribution**: Reduced reconstruction time by nearly two orders of magnitude (e.g., from 4.8 hours to 3 minutes) while ensuring high-quality results, providing a key technology for high-spatiotemporal-resolution analysis of dynamic flow fields
 </div>
 </div>
 
