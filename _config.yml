@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Baodi Yu"
+  name             : "Baodi Yu（于宝地）"
   avatar           : "images/avatar_hongkong.png"
   bio              : "PhD Student at the University of the Chinese Academy of Sciences"
   location         : "Beijing, China"
@@ -30,7 +30,7 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yubaodi20@ipe.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://ai4ct.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
