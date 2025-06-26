@@ -23,6 +23,7 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 # 🔥 News
 - *2025.06*: &nbsp;🎉 I have officially started using and updating my academic homepage. 
 - *2025.05*: &nbsp;🎉 One paper was accepted to Machine Learning: Engineering.
+- *2025.04*: &nbsp;🎉 One paper was accepted to CT Theory and Applications.
 
 # 📖 Educations
 - *2020.09 - 2026.06 (now)*, Integrated Master-PhD Program, University of Chinese Academy of Sciences (UCAS), Beijing. (GPA: **3.76**/4)
