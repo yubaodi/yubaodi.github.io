@@ -32,6 +32,20 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 \* Equal Contributions; # Corresponding Authors; cs: coming soon.
 ## 📄 Papers 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIChE J. 2025</div><img src='images/3DBubbles An Experimental Dataset for Model Training and Benchmarking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+3DBubbles: An Experimental Dataset for Model Training and Benchmarking(**cs**)
+
+**Baodi Yu**, Qian Chen Yanwei Qin, Sunyang Wang, Xiaohui Su, Fanyong Meng*
+
+[**Code**](https://github.com/AI4CT/3DBubbles)·[**Kaggle**](https://www.kaggle.com/datasets/ai4ctofipe/3dbubbles)·[**Zenodo**](https://doi.org/10.5281/zenodo.15636832)
+- **Objective**: Addressed a critical bottleneck in fluid dynamics research: the lack of high-quality, large-scale experimental datasets of 3D bubble structures for training and benchmarking Artificial Intelligence (AI) models.
+- **Methodology**: Developed a novel method for dataset construction by preparing static bubbly flow phantoms, digitizing over 10,000 real 3D bubble structures using an in-house X-ray CT system, and characterizing them with Spherical Harmonic (SH) analysis for efficient compression.
+- **Contribution**: Constructed and open-sourced the "3DBubbles" dataset, providing the scientific community with physically plausible 3D ground-truth bubble geometries and their rendered 2D projections, which serve as valuable benchmark data for robust training and rigorous evaluation of AI models, particularly for 2D-to-3D reconstruction tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mach. Learn.: Eng. 2025</div><img src='images/Exploring model generalizability from a novel perspective.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,10 +53,9 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 
 Sunyang Wang, **Baodi Yu**, Fanyong Meng*
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- **Challenge**: To address the dual challenges in dynamic CT for multiphase flows: severe limited-angle artifacts due to incomplete data acquisition and prohibitively long reconstruction times of traditional iterative algorithms.
-- **Method**: Developed a deep-learning-enhanced reconstruction algorithm that integrates a rapid SIRT method with a U-Net model, efficiently removing artifacts and restoring structures in the image domain.
-- **Impact**: Reduced reconstruction time by nearly two orders of magnitude (e.g., from 4.8 hours to 3 minutes) while ensuring high-quality results, providing a key technology for high-spatiotemporal-resolution analysis of dynamic flow fields
+- **Objective**: To address the dual challenges in dynamic CT for multiphase flows: severe limited-angle artifacts due to incomplete data acquisition and prohibitively long reconstruction times of traditional iterative algorithms.
+- **Methodology**: Developed a deep-learning-enhanced reconstruction algorithm that integrates a rapid SIRT method with a U-Net model, efficiently removing artifacts and restoring structures in the image domain.
+- **Contribution**: Reduced reconstruction time by nearly two orders of magnitude (e.g., from 4.8 hours to 3 minutes) while ensuring high-quality results, providing a key technology for high-spatiotemporal-resolution analysis of dynamic flow fields
 </div>
 </div>
 
@@ -88,8 +101,8 @@ Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (C
 </div>
 </div>
 
-- [Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
-- [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination)
+<!-- - [Multiphase flow quasi-dynamic phantom and CT device testing method for CT device testing](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA9FGC6BDA9HBD9EEA2ABA9GDF6CAA9FECFFIA9EGG9EAE), Qian Chen, **Baodi Yu**, Xiaohui Su, Yanwei Qin, Sunyang Wang, Fanyong Meng*. (CN202411542959.8, Substantive Examination)
+- [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
 
 # 🤝 Competitions
 - *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
