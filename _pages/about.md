@@ -16,9 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and Engineering](https://www.mesolab.ac.cn), [Institute of Process Engineering](http://english.ipe.cas.cn), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn), under the supervision of Associate Researcher [Meng Fanyong](https://people.ucas.edu.cn/~0037928).
-
-我目前在[中国科学院大学](https://www.ucas.edu.cn/)，[过程工程研究所](http://www.ipe.cas.cn/)，[介科学与工程全国重点实验室](https://www.mesolab.ac.cn/)攻读博士学位，导师是副研究员[孟凡勇]（https://people.ucas.edu.cn/~0037928）。
+我目前在[中国科学院大学](https://www.ucas.edu.cn/)，[过程工程研究所](http://www.ipe.cas.cn/)，[介科学与工程全国重点实验室](https://www.mesolab.ac.cn/)攻读博士学位，导师是副研究员[孟凡勇](https://people.ucas.edu.cn/~0037928)。
 
 主要研究方向为多相流测量、流体力学、计算机视觉、人工智能等多学科交叉研究。具体来说，我正在研究多相流中高度重叠场景的检测、表征和生成。
 
@@ -28,8 +26,8 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 - *2025.04*: &nbsp;🎉 一篇论文被《CT理论与应用研究》接收。
 
 # 📖 Educations
-- *2020.09 - 2026.06 (now)*, 硕博连读, 中国科学院大学（University of Chinese Academy of Sciences，UCAS）， 北京. (GPA: **3.76**/4)
-- *2016.09 - 2020.06*, 工学学士, 北京化工大学（Beijing University of Chemical Technology，BUCT）, 北京. (GPA: **3.81**/4.33, rank: **6**/206)
+- *2020.09 - 2026.06 (now)*, 硕博连读, 中国科学院大学， 北京. (GPA: **3.76**/4)
+- *2016.09 - 2020.06*, 工学学士, 北京化工大学, 北京. (GPA: **3.81**/4.33, rank: **6**/206)
 
 # 📝 Publications 
 \# 共同作者; * 通讯作者; cs: 即将发表.
@@ -43,9 +41,9 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 **于宝地**, 陈浅, 秦艳玮, 王孙洋, 苏晓辉, 孟凡勇*
 
 [📄**Code**](https://github.com/AI4CT/3DBubbles)&nbsp;·&nbsp;[💿**Kaggle**](https://www.kaggle.com/datasets/ai4ctofipe/3dbubbles)&nbsp;·&nbsp;[💿**Zenodo**](https://doi.org/10.5281/zenodo.15636832)
-- **Objective**: Addressed a critical bottleneck in fluid dynamics research: the lack of high-quality, large-scale experimental datasets of 3D bubble structures for training and benchmarking Artificial Intelligence (AI) models.
-- **Methodology**: Developed a novel method for dataset construction by preparing static bubbly flow phantoms, digitizing over 10,000 real 3D bubble structures using an in-house X-ray CT system, and characterizing them with Spherical Harmonic (SH) analysis for efficient compression.
-- **Contribution**: Constructed and open-sourced the "3DBubbles" dataset, providing the scientific community with physically plausible 3D ground-truth bubble geometries and their rendered 2D projections, which serve as valuable benchmark data for robust training and rigorous evaluation of AI models, particularly for 2D-to-3D reconstruction tasks.
+- **目标**: 针对多相流研究中的实验数据瓶颈，提出并开源用于人工智能（AI）模型训练和基准测试的大规模、高质量三维气泡结构实验数据集。
+- **方法**:开发了一种创新的数据集构建方法，通过制作静态气泡流模体，利用自研的X射线CT系统对超过10,000个真实三维气泡进行数字化，并引入球谐函数（SH）分析进行表征和高效压缩。
+- **贡献**: 构建并开源了“3DBubbles”数据集，为科研界提供了具有物理真实性的三维气泡几何真值及其渲染后的二维投影图像，为AI模型（尤其是二维到三维重构任务）的稳健训练和严格评估提供了宝贵的基准数据。
 </div>
 </div>
 
@@ -56,9 +54,9 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 
 王孙洋, **于宝地**, 孟凡勇*
 
-- **Objective**: To address the key challenge of lacking a unified mechanistic explanation for the generalizability of Machine Learning (ML) models by establishing a novel theoretical framework with causal explanatory power.
-- **Methodology**: Introduced the "Compromise in Competition" (CIC) principle from mesoscience, identifying the interplay between "memorizing" and "forgetting" as the core competing mechanisms that govern a model's final behavior.
-- **Contribution**: This framework provides a new causal interpretation for overfitting (as the result of memorizing excessively dominating forgetting) and reinterprets the mechanisms of techniques like regularization, offering a new perspective on AI interpretability.
+- **目标**: 针对机器学习（ML）模型泛化性缺乏统一机理解释这一核心挑战，旨在建立一个全新的、具有因果解释能力的理论框架。
+- **方法**: 创新性地引入了过程工程领域的介科学（mesoscience）“竞争中的妥协”原理，将模型的“记忆”与“遗忘”提炼为一对相互竞争并决定模型最终行为的核心主导机制。
+- **贡献**: 该框架为过拟合现象提供了全新的因果解释（即“记忆”对“遗忘”的过度主导），并从机理上重新诠释了正则化等技术，为提升人工智能的可解释性提供了新视角。
 </div>
 </div>
 
@@ -69,9 +67,9 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 
 陈浅, **于宝地**, 秦艳玮, 王孙洋, 苏晓辉, 金鑫, 孟凡勇*
 
-- **Objective**: To address the dual challenges in dynamic CT for multiphase flows: severe limited-angle artifacts due to incomplete data acquisition and prohibitively long reconstruction times of traditional iterative algorithms.
-- **Methodology**: Developed a deep-learning-enhanced reconstruction algorithm that integrates a rapid SIRT method with a U-Net model, efficiently removing artifacts and restoring structures in the image domain.
-- **Contribution**: Reduced reconstruction time by nearly two orders of magnitude (e.g., from 4.8 hours to 3 minutes) while ensuring high-quality results, providing a key technology for high-spatiotemporal-resolution analysis of dynamic flow fields
+- **目标**: 旨在解决动态CT在测量多相流时，因数据采集不完备而产生的严重有限角伪影，以及传统迭代算法重建耗时过长的双重难题。
+- **方法**: 开发了一种深度学习强化的重建算法，该算法将快速的同步迭代重建技术（SIRT）与U-Net深度学习网络相结合，在图像域高效地完成伪影消除与结构重建任务。
+- **贡献**: 在保证重建质量的同时，将重建时间缩短了近两个数量级（例如从4.8小时降至3分钟），为实现多相流动态过程的高时空分辨率测量提供了关键技术。
 </div>
 </div>
 
@@ -84,9 +82,9 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 
 陈浅, **于宝地**, 苏晓辉, 秦艳玮, 王孙洋, 孟凡勇*. (CN202411542959.8, Substantive Examination)
 
-- **Objective**: To solve the core difficulty in evaluating the performance of dynamic CT scanners for multiphase flow: the inability to obtain the 3D ground truth of a real, transient flow field for accurate performance calibration.
-- **Methodology**: Invented a "quasi-dynamic phantom" featuring a solid "flow-field pillar" with fixed internal bubble structures. This pillar is moved at controlled speeds to simulate a repeatable and predictable dynamic flow field.
-- **Contribution**: This method allows for the acquisition of both dynamic CT data and its corresponding, precisely assembled static ground-truth data. By comparing the two (e.g., via SSIM), the scanner's accuracy at various speeds can be quantitatively evaluated to determine its "maximum trustworthy test speed".
+- **目标**: 旨在解决评估动态CT设备测量多相流性能时的核心难题，即真实流场瞬息万变，无法获得其三维结构“真值”以进行精确的性能标定。
+- **方法**:设计了一种“准动态模体”，其核心是一个内部包含固定气泡结构的实心“流场柱” ，通过控制该柱体以不同速度运动，来模拟可重复、可预测的动态流场。
+- **贡献**: 该方法能够获取动态测量的CT数据和可精确拼接的静态“真值”数据 ，通过对比两者（如计算SSIM），可定量评估CT设备在不同速度下的测量精度，并确定其“最大可信测试速度”。
 </div>
 </div>
 
@@ -97,10 +95,9 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 
 **于宝地**, 孟凡勇*. (CN202311045920.0, Substantive Examination)
 
-- **Objective**: To address the massive data volume from high-resolution flow-field measurements (e.g., high-speed cameras) which creates immense storage and transmission pressure, and the inability of traditional pixel-based compression to preserve key physical structures.
-
-- **Methodology**: Proposed a novel structure-based compression method that uses a deep neural network to automatically detect key structures (e.g., bubbles) in the flow field  and extracts their geometric and physical information into low-dimensional parameters for efficient binary storage.
-- **Contribution**: This method achieves an extremely high compression ratio (approx. 290:1 in the example) , significantly saving storage space while preserving physically meaningful structural information and enabling subsequent flow-field reconstruction.
+- **目标**: 针对高分辨率流场测量（如高速摄影）产生海量数据、存储和传输压力巨大的问题，以及传统基于像素的压缩方法无法保留关键物理结构的缺陷。
+- **方法**: 提出了一种基于结构特征的创新压缩方法，利用深度神经网络自动检测流场中的关键结构（如气泡），并将其几何与物理信息提取为低维参数，最终以二进制格式高效存储。
+- **贡献**: 该方法实现了极高的压缩比（示例中约290:1），显著节省存储空间，同时保留了具有物理意义的核心结构信息，并支持后续的流场重构。
 </div>
 </div>
 
@@ -108,14 +105,15 @@ I am currently pursuing a PhD at the [State Key Laboratory of Mesoscience and En
 - [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
 
 # 🤝 Competitions
-- *2024.12* National Second Prize, First National Artificial Intelligence Application Innovation Competition in the Chemical Industry
-- *2024.01* Provincial Third Prize, Beijing Science Communication Competition
-- *2021.12* National First Prize (1st), "University of Chinese Academy of Sciences Cup" Innovation and Entrepreneurship Competition, Software and Internet Category
-- *2019.08* National Third Prize, National College Student Design Competition
-- *2019.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
-- *2018.10* Provincial Second Prize, National Mathematical Modeling Contest.
-- *2018.04* Meritorious Winner, International Mathematical Modeling Contest: The Interdisciplinary Contest in Modeling (ICM).
-- *2017.10* Provincial Second Prize, National Mathematical Modeling Contest.
+- *2024.12* 全国首届化工行业人工智能应用创新大赛二等奖（华为云承办）
+- *2024.01* 第五届北京科学传播大赛科普讲解赛道成人组三等奖
+- *2023.06* 中国科学院科普讲解大赛暨全国科普讲解大赛选拔赛优秀奖
+- *2021.12* “国科大杯”创新创业大赛总决赛三等奖、分项赛一等奖
+- *2019.08* 全国大学生化工设计竞赛全国三等奖、华北赛区二等奖
+- *2019.04* 美国大学生数学建模竞赛(ICM)国际一等奖(Meritorious Winner).
+- *2018.10* 全国大学生数学建模竞赛北京市二等奖
+- *2018.04* 美国大学生数学建模竞赛(ICM)国际一等奖(Meritorious Winner).
+- *2017.10* 全国大学生数学建模竞赛北京市二等奖
 
 # 💎 Honors and Awards
 - *2024.07* 中央和国家机关“四好”党员
