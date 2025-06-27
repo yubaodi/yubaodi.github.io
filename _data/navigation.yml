@@ -13,13 +13,13 @@ main:
     url: "/#-publications"
 
   - title: "Competitions"
-    url: "/#-honors-and-awards"
+    url: "/#-competitions"
 
   - title: "Honors and Awards"
-    url: "/#-competitions"
+    url: "/#-honors-and-awards"
 
   - title: "Societies"
     url: "/#-societies"
-
+ß
   # - title: "Internships"
   #   url: "/#-internships"
