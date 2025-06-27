@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Baodi Yu"
-description              : "A PhD student at the University of Chinese Academy of Sciences, focusing on interdisciplinary research in chemical engineering and artificial intelligence."
-repository               : "AI4CT/AI4CT.github.io"
+description              : "一名中国科学院大学博士研究生，主要从事化学工程与人工智能交叉学科研究。"
+repository               : "yubaodi/yubaodi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Baodi Yu（于宝地）"
+  name             : "于宝地"
   avatar           : "images/avatar_hongkong.png"
-  bio              : "University of the Chinese Academy of Sciences"
-  location         : "Beijing, China"
+  bio              : "中国科学院大学"
+  location         : "北京, 中国"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yubaodi20@ipe.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ai4ct.github.io/"
+  uri              : "https://yubaodi.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
