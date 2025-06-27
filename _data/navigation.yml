@@ -1,24 +1,24 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "个人简介"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "新闻"
     url: "/#-news"
     
-  - title: "Educations"
+  - title: "教育经理"
     url: "/#-educations"
 
-  - title: "Publications"
+  - title: "论文专利"
     url: "/#-publications"
 
-  - title: "Competitions"
+  - title: "竞赛经历"
     url: "/#-competitions"
 
-  - title: "Honors and Awards"
+  - title: "荣誉奖项"
     url: "/#-honors-and-awards"
 
-  - title: "Societies"
+  - title: "校园工作"
     url: "/#-societies"
 
   - title: "English"
