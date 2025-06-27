@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Baodi Yu"
+title                    : "于宝地（Baodi Yu） - 学术主页"
 description              : "一名中国科学院大学博士研究生，主要从事化学工程与人工智能交叉学科研究。"
 repository               : "yubaodi/yubaodi.github.io"
 google_scholar_stats_use_cdn : true
