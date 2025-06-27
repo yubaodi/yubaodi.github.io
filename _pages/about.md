@@ -30,7 +30,7 @@ My research focuses on interdisciplinary studies in multiphase flow measurement,
 - *2016.09 - 2020.06*, Undergraduate, Beijing University of Chemical Technology (BUCT), Beijing. (GPA: **3.81**/4.33, rank: **6**/206)
 
 # 📝 Publications 
-\* Equal Contributions; # Corresponding Authors; cs: coming soon.
+\# Equal Contributions; * Corresponding Authors; cs: coming soon.
 ## 📄 Papers 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIChE J. 2025</div><img src='images/3DBubbles An Experimental Dataset for Model Training and Benchmarking.png' alt="sym" width="100%"></div></div>
