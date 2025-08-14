@@ -6,7 +6,7 @@ main:
   - title: "新闻"
     url: "/#-news"
     
-  - title: "教育经理"
+  - title: "教育经历"
     url: "/#-educations"
 
   - title: "论文专利"
