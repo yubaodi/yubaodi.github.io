@@ -37,7 +37,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIChE J. 2025</div><img src='images/3DBubbles An Experimental Dataset for Model Training and Benchmarking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-3DBubbles: An Experimental Dataset for Model Training and Benchmarking(**In press**)
+[3DBubbles: An Experimental Dataset for Model Training and Benchmarking](https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.70029)
 
 **于宝地**, 陈浅, 秦艳玮, 王孙洋, 苏晓辉, 孟凡勇*
 
