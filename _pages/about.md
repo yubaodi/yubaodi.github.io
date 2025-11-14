@@ -107,6 +107,7 @@ redirect_from:
 - [Flow field measurement data compression and storage method and system](https://cprs.patentstar.com.cn/Search/Detail?ANE=AIHA6AGA3ABA7DBA4ADA6DCA4EAA9CIF9EAAAIAA9HCC7FCA), **Baodi Yu**, Fanyong Meng*. (CN202311045920.0, Substantive Examination) -->
 
 # 🤝 Competitions
+- *2025.11* 2025年度介科学与工程全国重点实验室研究生探索与创新奖三等奖
 - *2024.12* 全国首届化工行业人工智能应用创新大赛二等奖（华为云承办）
 - *2024.01* 第五届北京科学传播大赛科普讲解赛道成人组三等奖
 - *2023.06* 中国科学院科普讲解大赛暨全国科普讲解大赛选拔赛优秀奖
